@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Data+Analytics+Learner;Machine+Learning+Enthusiast;Open+Source+Learner&center=true&width=500&height=50">
 </p>
-# Hi 👋, I'm Kashish Devgun
 
 🎓 B.Tech CSE (AI & ML) Student
 🏫 Khalsa College of Engineering and Technology, Amritsar
