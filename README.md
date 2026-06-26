@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Kashish Devgun
 
-<!--
-**kashish165/kashish165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student
+🏫 Khalsa College of Engineering and Technology, Amritsar
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python
+- Data Analytics
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- Python
+- C++
+- SQL
+- HTML
+- OOPS
+
+## 🚀 Projects
+- Student Record Management System
+- Bank Management System
+- Stock Sentiment Predictor
+
+## 📫 Connect With Me
+- GitHub: https://github.com/kashish165
+
+## ⚡ About Me
+I am passionate about Artificial Intelligence, Machine Learning, and Data Analytics. I enjoy learning new technologies and building projects.
