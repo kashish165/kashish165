@@ -38,8 +38,7 @@
 
 ### 🚀 Projects
 
-- **[Student Record Management System](https://github.com/kashish165)** — a system to manage and organize student data efficiently
-- **[Bank Management System](https://github.com/kashish165)** — a console/desktop application simulating core banking operations
+- **[Semantic-Segmentation-AI](https://github.com/kashish165/Semantic-Segmentation-AI)** — real-time semantic segmentation using YOLOv8 + DeepLabV3
 - **[Sky-Journal](https://github.com/kashish165/Sky-Journal-)** — personal journaling project
 - **[Stock-Sentiment-Predictor](https://github.com/kashish165/Stock-Sentiment-Predictor)** — predicts stock sentiment using data analysis
 
