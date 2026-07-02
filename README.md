@@ -43,7 +43,7 @@
 - **[Stock-Sentiment-Predictor](https://github.com/kashish165/Stock-Sentiment-Predictor)** — predicts stock sentiment using data analysis
 - **[Breast Cancer Prediction](https://github.com/kashish165/Breast_cancer_prediction-main)** — predicts breast cancer malignancy using a Decision Tree model with a Streamlit app for real-time risk analysis (96.4% accuracy)
 - **[FIFA Match Predictor](https://github.com/kashish165/fifa-match-predictor-ai-Pu)** — predicts international football match outcomes using 154 years of historical data and machine learning
----
+---- **[Facial Recognition Attendance System](https://github.com/kashish165/facial_recognition_attendance)** — AI-powered attendance system using OpenCV, MTCNN, and TensorFlow for real-time face recognition with SQLite-based tracking
 
 ### 📊 GitHub Stats
 
