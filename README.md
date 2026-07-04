@@ -45,6 +45,7 @@
 - **[FIFA Match Predictor](https://github.com/kashish165/fifa-match-predictor-ai-Pu)** — predicts international football match outcomes using 154 years of historical data and machine learning
 - **[Facial Recognition Attendance System](https://github.com/kashish165/facial_recognition_attendance)** — AI-powered attendance system using OpenCV, MTCNN, and TensorFlow for real-time face recognition with SQLite-based tracking
 - [Social-Media-Engagement-Clustering-Application](https://github.com/kashish165/Social-Media-Engagement-Clustering-Application) — segments social media users using K-Means clustering with a Streamlit app for real-time engagement predictions and 3D visualizations
+- - **[Diabetes Risk Prediction System](https://github.com/kashish165/Diabetes-Risk-Prediction-System--main)** – predicts diabetes risk using a KNN model with an interactive Streamlit app for real-time health analysis
 
 ### 📊 GitHub Stats
 
