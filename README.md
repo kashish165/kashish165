@@ -46,6 +46,7 @@
 - **[Facial Recognition Attendance System](https://github.com/kashish165/facial_recognition_attendance)** — AI-powered attendance system using OpenCV, MTCNN, and TensorFlow for real-time face recognition with SQLite-based tracking
 - [Social-Media-Engagement-Clustering-Application](https://github.com/kashish165/Social-Media-Engagement-Clustering-Application) — segments social media users using K-Means clustering with a Streamlit app for real-time engagement predictions and 3D visualizations
 - [Diabetes Risk Prediction System](https://github.com/kashish165/Diabetes-Risk-Prediction-System--main) – predicts diabetes risk using a KNN model with an interactive Streamlit app for real-time health analysis
+- - [Credit-Card-Fraud-Detection](https://github.com/kashish165/-Credit-Card-Fraud-Detection) — detects fraudulent credit card transactions using a Decision Tree model with a Streamlit app for real-time risk analysis (90.6% accuracy)
 
 ### 📊 GitHub Stats
 
