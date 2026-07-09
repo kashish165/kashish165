@@ -38,7 +38,7 @@
 
 ### 🚀 Projects
 
-- **[Semantic-Segmentation-AI](https://github.com/kashish165/Semantic-Segmentation-AI)** — real-time semantic segmentation using YOLOv8 + DeepLabV3
+- **[Semantic-Segmentation-AI](https://github.com/kashish165/Semantic-Segmentation-AI)** — Real-time semantic segmentation using YOLOv8 + DeepLabV3
 - **[Sky-Journal](https://github.com/kashish165/Sky-Journal-)** — personal journaling project
 - **[Stock-Sentiment-Predictor](https://github.com/kashish165/Stock-Sentiment-Predictor)** — predicts stock sentiment using data analysis
 - **[Breast Cancer Prediction](https://github.com/kashish165/Breast_cancer_prediction-main)** — predicts breast cancer malignancy using a Decision Tree model with a Streamlit app for real-time risk analysis (96.4% accuracy)
