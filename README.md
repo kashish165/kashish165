@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashish Devgun</h1>
-<h3 align="center">B.Tech CSE (AI & ML) Student @ Khalsa College of Engineering & Technology, Amritsar</h3>
+<h3 align="center">B.Tech CSE (AI & ML) student @ Khalsa College of Engineering & Technology, Amritsar</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kashish-devgun-0a47163a0/" target="_blank">
