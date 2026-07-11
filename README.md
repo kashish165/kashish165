@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kashish </h1>
+<h1 align="center">Hi 👋, I'm Kashish Devgun </h1>
 <h3 align="center">B.Tech CSE (AI & ML) Student @ Khalsa College of Engineering & Technology, Amritsar</h3>
 
 <p align="center">
